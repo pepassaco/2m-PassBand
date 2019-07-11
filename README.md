@@ -1,5 +1,5 @@
 # Filtro paso banda para 137MHz
-Filtro diseñado para la recepción de señales provenientes de los satélites NOAA 15, 18, 19 y Meteor M N2-1 y M2-2.
+Filtro diseñado para la recepción de señales provenientes de los satélites NOAA 15, 18, 19 y Meteor M N2-1 y N2-2.
 
 # Características:
 
