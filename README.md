@@ -1,7 +1,7 @@
 # Filtro paso banda para 137MHz
-Filtro diseñado para la recepción de señales provenientes de los satélites NOAA 15, 18, 19 y Meteor M N2-1 y N2-2.
+Filtro diseñado para la recepción de señales provenientes de los satélites NOAA 15, 18, 19 y Meteor M N2-1 y N2-2. 
 
-[[https://github.com/pepassacoFiltro-pasobanda-137MHz/blob/master/Simulaciones/Captura%20de%20pantalla%20(21).png|alt=octocat]]
+![alt text](https://github.com/pepassacoFiltro-pasobanda-137MHz/blob/master/Simulaciones/Captura%20de%20pantalla%20(21).png)
 
 # Características:
 
