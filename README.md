@@ -7,14 +7,14 @@ Filtro diseñado para la recepción de señales provenientes de los satélites N
 
 - Orden: 3
 
-- Frecuencia de corte inferior: 135 MHz
+- Frecuencia de corte inferior: 135MHz
 
-- Frecuencia de corte sueprior: 139 MHz
+- Frecuencia de corte sueprior: 139MHz
 
-- Rizado en banda de paso: < 0,1 dB
+- Rizado en banda de paso: < 0,1dB
 
-- Atenuación: > 55 dB
+- Atenuación: > 55dB
 
-- Inpedancia de entrada: 50 Ohm
+- Inpedancia de entrada: 50Ω
 
-- Inpedancia de salida: 50 Ohm
+- Inpedancia de salida: 50Ω
