@@ -13,9 +13,9 @@ Filtro diseñado para la recepción de señales provenientes de los satélites N
 
 - Frecuencia de corte sueprior: 139MHz
 
-- Rizado en banda de paso: < 0,1dB
+- Rizado en banda de paso: <0,1dB
 
-- Atenuación: > 55dB
+- Atenuación: >55dB
 
 - Inpedancia de entrada: 50Ω
 
