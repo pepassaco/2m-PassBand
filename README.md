@@ -1,7 +1,7 @@
 # Filtro paso banda para 137MHz
 Filtro diseñado para trabajar adecuadamente la banda de 2m (VHF). Capaz de cubrir tanto la zona destinada a comunicaciones entre radioaficionados (144MHz-148MHz) como la asociada a los satélites NOAA 15, 18, 19 y Meteor M N2-1 (137MHz-138MHz). 
 
-![alt text](https://raw.githubusercontent.com/pepassaco/Filtro-pasobanda-137MHz/master/Simulaciones/1.jpg)
+![alt text](https://raw.githubusercontent.com/pepassaco/Filtro-pasobanda-137MHz/master/Simulaciones/2.jpg)
 
 # Características:
 
