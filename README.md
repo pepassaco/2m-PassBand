@@ -18,3 +18,5 @@ Filtro diseñado para trabajar adecuadamente la banda de 2m (VHF). Capaz de cubr
 - Inpedancia de entrada: 50Ω
 
 - Inpedancia de salida: 50Ω
+
+**Note**: on the PCB, the 6th stage of the filter includes space for a second inductor. This es due to the unavailability of an inductor of the esact value I needes, so I ended up dividing it into two that added up the original value.
